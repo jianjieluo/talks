@@ -2,7 +2,7 @@ NOTE
 
 
 
-﻿# A CG Basic Knowledge Talk
+# A CG Basic Knowledge Talk
 
 
 
